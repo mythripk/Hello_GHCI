@@ -2,10 +2,10 @@
  
 int main()
 {
-  char string[] = "Hello GHCI";
- 
-  printf("%s\n", string);
- 
-  return 0;
+	char string[] = "Hello GHCI";
+
+	printf("%s\n", string);
+
+	return 0;
 }
 
